@@ -1,0 +1,22 @@
+
+Install type script globally
+
+   npm install -g typescript
+
+type script config file creation(it help us to provide javascript files after compilation of .ts files)
+
+   tsc --init
+
+Variables:
+
+ variables store data
+ In type script we use let and const
+
+ Data types:
+
+string --> " "
+number --> 1,2,3...
+boolean --> true/false
+null --> null
+undefined --> undefined
+any --> any (special type)
