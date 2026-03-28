@@ -20,3 +20,9 @@ boolean --> true/false
 null --> null
 undefined --> undefined
 any --> any (special type)
+
+28th March
+
+npx tsc - for compiling code
+node dist/firsttest.js - executing .ts files
+"sourceMap": true --> Source maps connect your compiled JavaScript back to your original TypeScript code

@@ -1,7 +1,7 @@
 
 
 // VariableName:typeofdata = value
-// let age: number = 28;
+ let age: number = 28;
 // let name: string = "test automation";
 // let status: boolean = true;
 
@@ -16,17 +16,20 @@ let distance = 30;
 console.log(typeof distance);
 
 
-let name = "test automation";
-console.log(typeof name);
+// let name = "test automation";
+// console.log(typeof name);
 
 /*
    Special Type: any (keyword)
 */
 
-// let a: any = 10;
-// a ="test automation";
-// a = true;
-// a = 30;
-// a = "test";
+let a: any = 10;
+a ="test automation";
+a = true;
+a = 30;
+a = "test";
 
-// console.log(a)
+console.log(a)
+
+const city = 'hyderabad';
+console.log(city);

@@ -1,0 +1,22 @@
+/*
+  Named Function:
+
+  A named function is a function declared with a name using the function keyword.
+  It is reusable and can be called anywhere in the code.
+  * reusable logic
+*/
+
+
+function add(a:number,b:number): number{
+    return a+b;
+}
+
+function multiplication(c:number,d:number):number{
+    return c*d;
+}
+
+
+
+console.log(add(4,6));
+
+console.log(multiplication(10,5));
