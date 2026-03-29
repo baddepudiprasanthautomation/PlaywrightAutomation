@@ -1,0 +1,1 @@
+{"version":3,"file":"ifstatement.js","sourceRoot":"","sources":["../../src/ControlsStatements/ifstatement.ts"],"names":[],"mappings":";AACA,IAAI,IAAI,GAAG,IAAI,CAAC;AAEhB,IAAG,IAAI,GAAG,IAAI;IACV,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,CAAA;KAC1B,IAAG,IAAI,IAAI,IAAI;IAChB,OAAO,CAAC,GAAG,CAAC,+BAA+B,CAAC,CAAA;KAC3C,IAAG,IAAI,GAAG,IAAI;IACf,OAAO,CAAC,GAAG,CAAC,UAAU,CAAC,CAAA"}
