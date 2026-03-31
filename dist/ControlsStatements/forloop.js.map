@@ -1,1 +1,1 @@
-{"version":3,"file":"forloop.js","sourceRoot":"","sources":["../../src/ControlsStatements/forloop.ts"],"names":[],"mappings":""}
+{"version":3,"file":"forloop.js","sourceRoot":"","sources":["../../src/ControlsStatements/forloop.ts"],"names":[],"mappings":";AACA,4BAA4B;AAE5B,KAAI,IAAI,CAAC,GAAC,CAAC,EAAC,CAAC,IAAE,CAAC,EAAC,CAAC,EAAE,EACpB,CAAC;IACG,IAAG,CAAC,IAAE,CAAC;QACH,SAAS;IAEb,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,CAAC;AACnB,CAAC"}
