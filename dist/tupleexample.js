@@ -1,6 +1,7 @@
 "use strict";
 //tuple enables storing multiple fields of different types
 // let toupleName: [type1,type2,type3.....]
+//declaration
 let mytouple;
 mytouple = ["Test", 2026, "Automation"];
 console.log(mytouple);

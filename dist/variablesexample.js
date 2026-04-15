@@ -1,6 +1,7 @@
 "use strict";
-// VariableName:typeofdata = value
+// let VariableName:typeofdata = value
 let age = 28;
+age = 39;
 // let name: string = "test automation";
 // let status: boolean = true;
 //cannot redeclare same variable
